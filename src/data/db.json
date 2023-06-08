@@ -1,0 +1,34 @@
+{
+    "movimientos":[
+        {
+            "id":1,
+            "description":"Pago gimnasio",
+            "price": 180000,
+            "type":"gasto"
+        },
+        {
+            "id":2,
+            "description":"Ingreso trabajo",
+            "price": 1500000,
+            "type":"ingreso" 
+        },
+        {
+            "id":3,
+            "description":"Gastos de mercado",
+            "price": 800000,
+            "type":"gasto"
+        },
+        {
+            "id":4,
+            "description":"Compra de regalo",
+            "price": 220000,
+            "type":"gasto"
+        },
+        {
+            "id":5,
+            "description":"Primas",
+            "price": 600000,
+            "type":"Ingresos"
+        }
+    ]
+}
